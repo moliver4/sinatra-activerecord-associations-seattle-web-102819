@@ -93,7 +93,8 @@ Our `cats` table should look like this:
 | 3   | Patches | 2   | Calico        | 1        |
 
 
-We now know what our table should look like. However, we haven't told our application how to relate the models to each other.
+We now know what our table should look like. However, we haven't told our application how to relate the m
+odels to each other.
 
 
 #### `belongs_to` and `has_many` 
